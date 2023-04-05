@@ -83,3 +83,11 @@ magenta_cdict = {'red':   ((0.0,  0.0, 0.0),
                            (1.0,  1.0, 1.0)), }
 
 magenta_cmap = colors.LinearSegmentedColormap('custom', magenta_cdict)
+
+
+cmaps = {"red": red_cmap,
+         "yellow": yellow_cmap,
+         "green": green_cmap,
+         "cyan": cyan_cmap,
+         "blue": blue_cmap,
+         "magenta": blue_cmap}
