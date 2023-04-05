@@ -90,4 +90,4 @@ cmaps = {"red": red_cmap,
          "green": green_cmap,
          "cyan": cyan_cmap,
          "blue": blue_cmap,
-         "magenta": blue_cmap}
+         "magenta": magenta_cmap}
